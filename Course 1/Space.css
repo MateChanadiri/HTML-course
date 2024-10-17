@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    background-color: black;
+}
+div {
+    color: white;
+}
+h1 {
+    background-image: url(Images/space.jpeg);
+    border-radius: 2rem;
+}
+img {
+    border-radius: 2rem;
+}
+#h2 {
+    color: orange;
+}
+#h3 {
+    color: purple;
+}
+#h4 {
+    color: gray;
+}
